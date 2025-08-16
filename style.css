@@ -30,13 +30,11 @@
   flex-direction: row;
   color: #fff;
   gap: 10rem;
-
 }
 
 .nav-text {
   display: flex;
   flex-direction: row;
-
 }
 
 .nav-text ul {
@@ -93,7 +91,6 @@
   font-size: 1.2rem;
   margin-top: 2rem;
   width: 45rem;
-
 }
 
 .pic-1 {
@@ -132,8 +129,6 @@
   font-size: 1.2rem;
   margin-top: 2rem;
   width: 45rem;
-
-
 }
 
 .pic-2 {
@@ -178,7 +173,8 @@
 
 .center-text {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  text-align: center;
   margin-top: 6rem;
 }
 
@@ -193,11 +189,4 @@
 
 #center-box {
   display: flex;
-}
-
-.center-text {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-
 }
