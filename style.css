@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#banner {
+  background-color: #043873;
+  height: 100vh;
+}   
+
+#section-3 {
+  background-color: #043873;
+  height: 70vh;
+}
+
+.banner-text {
+  display: flex;
+  gap: 20rem;
+}
+
+.logo {
+  margin-left: 6rem;
+  width:5%;
+  height: 2.5vh;
+  margin-top: 0.7%;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  gap: 10rem;
+ 
+}
+
+.nav-text {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.nav-text ul {
+  display: flex;
+  gap: 3rem;
+  margin-top: 1.9%;
+  list-style: none;
+  justify-content: center;
+}
+
+.bnt-1 {
+  width:8rem;
+  border-radius: 10px;
+  height: 4rem;
+  background-color: yellow;
+  border: yellow;
+  font-size: medium;
+}
+
+.bnt-2 {
+   width:12rem;
+  border-radius: 10px;
+  height: 4rem;
+  font-size:large;
+  background-color: #4f9cf9;
+  border: #4f9cf9;
+  margin-right: 6rem;
+  color: #fff;
+}
+.writetop {
+  display: flex;
+  margin-top: 10rem;
+}
+
+.done {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  margin-left:4rem ;
+}
+
+.get {
+ margin-top: 8rem;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get h1 {
+  font-size: 4.5rem;
+    width: 50rem;
+}
+
+.get p {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  width: 45rem;
+   
+}
+
+.pic-1 {
+  margin-right: 17rem;
+}
+
+.bnt-20 {
+  width:12rem;
+  border-radius: 10px;
+  height: 4rem;
+  font-size:large;
+  background-color: #4f9cf9;
+  border: #4f9cf9;
+  margin-right: 6rem;
+  color: #fff;
+  margin-top: 3rem;
+}
+
+.done1 {
+  display: flex;
+  flex-direction: column;
+  color: #000;
+  margin-left:4rem ;
+}
+
+.get-1 {
+    margin-top: 6rem;
+}
+.get-1 h1 {
+  font-size: 4.5rem;
+  width: 2px;
+}
+
+.get-1 p {
+   font-size: 1.2rem;
+  margin-top: 2rem;
+  width: 45rem;
+   
+
+}
+
+.pic-2 {
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+.bottom-2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10rem;
+}
+
+.pic-3 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 4rem;
+}
+
+.done2 {
+  display: flex;
+  flex-direction: row;
+  color: #000;
+  margin-left:8rem;
+  margin-top: 10rem ;
+}
+
+.get2 {
+    margin-top: 4rem;
+    width:40rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.get2 h1 {
+  font-size: 4.5rem;
+}
+
+.get2 p {
+  font-size: normal;
+  margin-top: 2rem;
+}
+ .center-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 6rem ;
+ }
+
+ .center-text h1 {
+  font-size: 4.5rem ;
+ }
+  
+ .pic-20 {
+  margin-left:1rem;
+  margin-top: 4rem;
+ }
+
+ #center-box {
+   display: flex;
+ }
+ .center-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+ }
+
+
+
