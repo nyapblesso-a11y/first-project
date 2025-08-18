@@ -104,24 +104,23 @@
 }
 
 @media screen and (max-width: 320px) {
-  
-.writetop {
- max-width: 100%;
- display: flex;
- flex-wrap: wrap;
-}
- 
- .nav {
-  display: flex;
-  flex-wrap: wrap;
- }
- 
- .banner-text {
-  display: flex;
-  flex-wrap: wrap;
- }
-}
 
+  .writetop {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .nav {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .banner-text {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
 .bnt-20 {
   width: 12rem;
   border-radius: 10px;
@@ -233,7 +232,7 @@
 }
 
 .middle-left {
-  border: 0.5px solid rgb(231, 209, 81);
+  border: 0.5px solid gold;
   border-radius: 10px;
   height: 60vh;
   width: 25rem;
@@ -243,7 +242,6 @@
 .top {
   margin-top: 2rem;
   margin-left: 2rem;
-
 }
 
 .top span {
@@ -527,9 +525,6 @@
 #section-8 {
   background-color: #043873;
 }
-
-
-    /*--footer--*/
 
 #footer {
   background-color: #043873;
