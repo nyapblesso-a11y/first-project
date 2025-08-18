@@ -13,7 +13,7 @@
   background-color: #043873;
   height: 70vh;
 }
- 
+
 .menubnt {
   display: none;
 }
@@ -125,6 +125,7 @@
     flex-wrap: wrap;
   }
 }
+
 .bnt-20 {
   width: 12rem;
   border-radius: 10px;
@@ -269,12 +270,12 @@
   gap: 20px;
 }
 
-.left-rit{
+.left-rit {
   margin-left: 2rem;
   list-style: none;
   display: grid;
   grid-template-columns: auto;
-  gap: 20px;  
+  gap: 20px;
 }
 
 .bnnl {
@@ -502,6 +503,22 @@
 }
 
 .cl-top {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.cl-top1 {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.cl-top2 {
   display: grid;
   grid-template-columns: auto;
   gap: 1rem;
