@@ -102,6 +102,27 @@
   margin-right: 17rem;
 }
 
+@media screen and (max-width: 1440px) {
+  .nav {
+    font-size: smaller;
+    width: 50%;
+  }
+
+  .pic-1 {
+    width: 40%;
+  }
+
+  .menubnt {
+    display: none;
+  }
+
+  .nav-text ul li {
+    width: 60%;
+  }
+
+
+}
+
 .bnt-20 {
   width: 12rem;
   border-radius: 10px;
