@@ -13,6 +13,10 @@
   background-color: #043873;
   height: 70vh;
 }
+ 
+.menubnt {
+  display: none;
+}
 
 #sector {
   background-color: #043873;
@@ -263,6 +267,14 @@
   display: grid;
   grid-template-columns: auto;
   gap: 20px;
+}
+
+.left-rit{
+  margin-left: 2rem;
+  list-style: none;
+  display: grid;
+  grid-template-columns: auto;
+  gap: 20px;  
 }
 
 .bnnl {
