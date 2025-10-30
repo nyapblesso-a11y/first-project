@@ -492,20 +492,20 @@
   .done {
     width: 50%;
   }
-  
+
   .get h1,
   .get-1 h1,
   .get2 h1,
   .end h1 {
-    font-size: 50px;
     margin-top: 1.5rem;
     width: 40rem;
     font-size: 5rem;
     text-align: center;
   }
 
-  .get22 h1, .text-bd h1 {
-    font-size: 4rem
+  .get22 h1,
+  .text-bd h1 {
+    font-size: 4rem;
   }
 
   .get p,
@@ -688,7 +688,7 @@
     justify-content: space-around;
     margin-top: 5rem;
   }
-  
+
   .aviat {
     width: 7rem;
     height: 5rem;
@@ -697,13 +697,14 @@
   .avat div h1 {
     color: #000;
   }
+
   .cl-left.avat.aviat {
     margin-bottom: 4rem;
   }
 
   .lines {
     margin-top: 5rem;
-  } 
+  }
 
   .cl-top2,
   .cl-top1 {
