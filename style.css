@@ -34,6 +34,7 @@
 .nav-text ul {
   display: none;
 }
+
 .menubnt {
   color: #fff;
 }
@@ -52,12 +53,14 @@
   margin-top: rem;
   align-items: center;
 }
+
 .pic-7 {
   width: 20rem;
   height: 17rem;
   margin-top: rem;
   align-items: center;
 }
+
 .writetop,
 #contain,
 #section-5 {
@@ -139,7 +142,7 @@
 .middle {
   grid-template-rows: auto;
   gap: 40px;
-  margin: 20px 20px;
+  margin: 20px;
 }
 
 .middle0 {
@@ -239,6 +242,7 @@
   margin: 0.5rem;
   background-color: #f3f3f3;
 }
+
 .cl-top {
   display: grid;
   grid-template-columns: auto;
@@ -254,6 +258,7 @@
 .lines {
   margin-top: 5rem;
 }
+
 .our h1 {
   font-size: 40px;
   text-align: center;
@@ -275,6 +280,7 @@
 .cl-top p {
   line-height: 2rem;
 }
+
 .avat p {
   margin-top: 1rem;
 }
@@ -321,6 +327,7 @@
   justify-content: center;
   gap: 2rem;
 }
+
 .lngg img {
   width: 30px;
   height: 30px;
@@ -352,6 +359,7 @@
   line-height: 2rem;
   padding: 1rem;
 }
+
 .col-text {
   color: gold;
 }
@@ -413,6 +421,7 @@
   #sector {
     height: 80vh;
   }
+
   .banner-text {
     display: flex;
     flex-direction: row;
@@ -424,6 +433,7 @@
     width: 50%;
     margin-left: 3rem;
   }
+
   .nav {
     display: flex;
     justify-content: space-around;
@@ -431,6 +441,7 @@
     padding: 10px;
     gap: 10px;
   }
+
   .nav-text ul {
     display: block;
     display: flex;
@@ -481,6 +492,7 @@
   .done {
     width: 50%;
   }
+  
   .get h1,
   .get-1 h1,
   .get2 h1,
@@ -490,6 +502,10 @@
     width: 40rem;
     font-size: 5rem;
     text-align: center;
+  }
+
+  .get22 h1, .text-bd h1 {
+    font-size: 4rem
   }
 
   .get p,
@@ -502,6 +518,7 @@
     line-height: 2rem;
     width: 30rem;
   }
+
   .pic-1,
   .pic-2,
   .pic-3,
@@ -671,6 +688,7 @@
     justify-content: space-around;
     margin-top: 5rem;
   }
+  
   .aviat {
     width: 7rem;
     height: 5rem;
@@ -685,7 +703,8 @@
 
   .lines {
     margin-top: 5rem;
-  }
+  } 
+
   .cl-top2,
   .cl-top1 {
     display: grid;
