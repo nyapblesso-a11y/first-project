@@ -111,8 +111,7 @@
 
 .done1,
 .done2 {
-  margin: 1rem;
-  margin-bottom: 2rem;
+  margin: 2rem;
   color: #000;
 }
 
@@ -138,7 +137,6 @@
 }
 
 .middle {
-  margin-top: 3rem;
   grid-template-rows: auto;
   gap: 40px;
   margin: 20px 20px;
@@ -545,14 +543,9 @@
   .middle {
     display: flex;
     flex-direction: row;
-    margin-top: 3rem;
     grid-template-rows: auto;
     gap: 40px;
     margin: 2rem;
-  }
-  .middle-left,
-  .middle-right {
-    display: block;
   }
 
   .middle0 {
@@ -566,6 +559,7 @@
 
   .middle-left,
   .middle-right {
+    display: block;
     border: 0.5px solid gold;
     border-radius: 10px;
     height: 60vh;
@@ -635,10 +629,7 @@
     justify-content: space-around;
     padding: 2rem;
   }
-  .cl-mid,
-  .cl-rit {
-    display: block;
-  }
+
   .text-box {
     display: flex;
     flex-direction: row;
@@ -664,6 +655,7 @@
 
   .cl-mid,
   .cl-rit {
+    display: block;
     border: #4f9cf9 1px solid;
     border-radius: 8px;
     width: 23rem;
@@ -764,9 +756,3 @@
     margin-left: 36rem;
   }
 }
-
-/* @media screen and (max-width: 430px) {
-  body {
-    background: 100%;
-  }
-} */
