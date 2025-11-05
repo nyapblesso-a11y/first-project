@@ -780,14 +780,14 @@
   .done {
     transform: translateY(-4rem);
   }
-  
+
   .pic-2,
   .pic-3,
   .pic-6 {
     width: 300px;
     height: 200px;
   }
-  
+
   .pic-1,
   .pic-20 {
     width: 300px;
